@@ -13,6 +13,7 @@
   justify-content: center;
   align-items: center;
   border: 1px solid #ccc;
+  border-radius: 10px;
   height: 300px;
   width: 500px;
   background-color: aliceblue;
